@@ -4,21 +4,20 @@
 - 📫 How to reach me fortiz@contactoit.cl
 - ⚡ Fun fact learning
 
-Star this repo20339
-Fork on GitHub6209
 <h1 align="center">Hola 👋, soy Felipe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-ortiz-developer&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-ortiz-developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fortiz-contactoit&label=Profile%20views&color=0e75b6&style=flat" alt="fortiz-contactoit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipe-ortiz-developer" alt="felipe-ortiz-developer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fortiz-contactoit" alt="fortiz-contactoit" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-ortiz-developer&show_icons=true&locale=en&layout=compact" alt="felipe-ortiz-developer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fortiz-contactoit&show_icons=true&locale=en&layout=compact" alt="fortiz-contactoit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-ortiz-developer&show_icons=true&locale=en" alt="felipe-ortiz-developer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fortiz-contactoit&show_icons=true&locale=en" alt="fortiz-contactoit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-ortiz-developer&" alt="felipe-ortiz-developer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fortiz-contactoit&" alt="fortiz-contactoit" /></p>
+
